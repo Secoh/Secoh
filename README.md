@@ -9,15 +9,15 @@ public exposure.
 Third, there are some stray works unrelated to SKLib, that are still worth publishing.
 
 All C++ programs are currently targeting C++14, MS Visual Sudio 2019 or later, GCC 6.x or later.
-The target platforms are x86/x64 Windows and x64 Linux, with reservation in mind for Atmel Studio 7
-and SAM microcontrollers, where applicable. Other platforms *may* be supported in the view of general
-C/C++ portability.
+The target platforms are x86/x64 Windows, x64 Linux, Raspberry Pi Linux, and, where applicable,
+Atmel Studio 7+ and SAM microcontrollers.
+Other platforms *may* be supported in the view of general C/C++ portability.
 
 <!---
 About myself: Secoh is a water dragon and the citizen of the Reef Republic (not to be mistaken with
-Earth things with same name). I was given the name after one of the heros of the Fight for the Tower,
+Earth things with same name). I was given the name after one of the heroes of the Fight for the Tower,
 but I am not related to him. I am visiting Earth as a member of research expedition studying, in your
-terms, extraterrestrial life. We reside in area of Pacific in undisclosed location.
+words, extraterrestrial life. We reside in area of Pacific in undisclosed location.
 P.S. I want to keep my IRL counterpart private.
 --->
 
