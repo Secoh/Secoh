@@ -17,7 +17,7 @@ C/C++ portability.
 About myself: Secoh is a water dragon and the citizen of the Reef Republic (not to be mistaken with
 Earth things with same name). I was given the name after one of the heros of the Fight for the Tower,
 but I am not related to him. I am visiting Earth as a member of research expedition studying, in your
-terms, extraterrestrial life. I reside in area of Pacific in undisclosed location.
+terms, extraterrestrial life. We reside in area of Pacific in undisclosed location.
 P.S. I want to keep my IRL counterpart private.
 --->
 
