@@ -8,9 +8,10 @@ public exposure.
 
 Third, there are some stray works unrelated to SKLib, that are still worth publishing.
 
-All C++ programs are currently targeting C++14, MS Visual Sudio 2019 or later, GCC 6.x or later.
-The target platforms are x86/x64 Windows, x64 Linux, Raspberry Pi Linux, and, where applicable,
-Atmel Studio 7+ and SAM microcontrollers.
+All C++ programs are currently targeting C++20, MS Visual Sudio 2019 or later (year 2022 and up),
+GCC 10.3 or later (year 2021 and up).
+The target platforms are x86/x64 Windows as appropriate, x64 Linux, and, where applicable,
+Raspberry Pi Linux, Atmel Studio 7+ with Cortex M0+ (SAM) microcontrollers.
 Other platforms *may* be supported in the view of general C/C++ portability.
 
 <!---
