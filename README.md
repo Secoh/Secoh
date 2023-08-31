@@ -8,6 +8,8 @@ public exposure.
 
 Third, there are some stray works unrelated to SKLib, that are still worth publishing.
 
+I populate my depository slowly (very slowly), as the next idea, next portion of code is ready.
+
 All C++ programs are currently targeting C++20, MS Visual Sudio 2019 or later (year 2022 and up),
 GCC 10.3 or later (year 2021 and up).
 The target platforms are x86/x64 Windows as appropriate, x64 Linux, and, where applicable,
